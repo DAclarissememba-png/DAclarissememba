@@ -11,6 +11,8 @@ This portfolio showcases the different projects I completed during my Data Analy
 - [Power BI]- Upload data and transform data on power BI.Designing and publishing reports containing visuals to outline trends and information.
 - [SQL]- ERD(Entity relationship diagrams), Data structure. Using SQL to set up and create a database for a business(Small corner shop), Using Syntax to input or get information from a table, maintaining my database.
 - [Python]- Loading and exploring data(import libraries, files), indexing and slicingg, data manipulation, agregration and grouping, exporting data
+[Converting data](Excel_1.png)
+
 
  
 
