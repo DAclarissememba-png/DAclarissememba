@@ -1,5 +1,5 @@
 # Hi I am Clarisse Memba
-This portfolio is to show diferent projects created during my DA bootcamp(May-July 2026)
+This portfolio is to show my different projects created during my Data Analysis(DA) bootcamp(from May-July 2026)
 ## Lessons Learnt include: 
 - Excel and data basics:Data types,Data management, Data entry, anlysis and visualisation with excel
 - Python/Google Colab:Using Syntax language, calculations, analysis, Python libraries (Pandas, Numpy, Matplotlib, Seaborn), Visualistion
