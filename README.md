@@ -2,7 +2,7 @@
 This portfolio is to show diferent projects created during my DA bootcamp(May-July 2026)
 ## Lessons Learnt include: 
 -Excel and data basics:Data types,Data management, Data entry, anlysis and visualisation with excel
--Python/Google Colab:Using Syntax language, calculations, analysis, Python libraries(Pandas, Numpy, Matplotlib, Seaborn), Visualistion
+-Python/Google Colab:Using Syntax language, calculations, analysis, Python libraries (Pandas, Numpy, Matplotlib, Seaborn), Visualistion
 -SQL/MySQL Workbennch:Database  structuring, Relational database design(snowflake) ERD's,  creating and manipulating database records.
 -Tableau/Power BI dashboards: Imporrting data, data analysis, Publishing outcomes
 ## Projects I have completed include:
