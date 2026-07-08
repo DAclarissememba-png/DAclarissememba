@@ -8,7 +8,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 ## Projects I have completed include:
 - [Excel] – Cleaning data(sorting, filtering), using pivot tabbles for analysis, descriptive analysis, comparative analysis, visualistions with line charts, histograms, bar charts and pie charts, securing my database.
 ![Converting data](Excel_1.png)
-
+![Pivot tables
 - 
 - [Tableau] - Using data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
 - [Power BI]- Upload data and transform data on power BI.Designing and publishing reports containing visuals to outline trends and information.
