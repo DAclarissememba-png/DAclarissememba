@@ -15,6 +15,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 - [SQL]- ERD(Entity relationship diagrams), Data structure. Using SQL to set up and create a database for a business(Small corner shop), Using Syntax to input or get information from a table, maintaining my database.
 - [Python]- Loading and exploring data(import libraries, files), indexing and slicingg, data manipulation, agregration and grouping, exporting data
 - ![Indexing and slicing](Syntax_display.ipynb)
+- ![Importing libraries, coding, visualistions](Python_coding.ipynb)
 - ![Importing, coding and vvisualistion](
 - ![Converting data](Conditional formating in Excel.png)
 - ![Pivot tables](Pivot tables in Excel.png)
