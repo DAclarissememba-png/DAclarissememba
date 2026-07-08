@@ -8,7 +8,8 @@ This portfolio showcases the different projects I completed during my Data Analy
 - Microsoft azure 
 ## Projects I have completed include:
 - [Excel] – Cleaning data(sorting, filtering), using pivot tabbles for analysis, descriptive analysis, comparative analysis, visualistions with line charts, histograms, bar charts and pie charts, securing my database.
-![Converting data](Excel_1.png) ![Pivot tables](Pivot tables in Excel.png)
+![Converting data](Excel_1.png)
+![Pivot tables](Pivot tables in Excel.png)
 ![Data cleaning](Conditional formating in Excel.png)
 - 
 - [Tableau] - Using data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
