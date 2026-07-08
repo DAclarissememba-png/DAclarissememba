@@ -7,7 +7,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 - Tableau/Power BI dashboards: Importing data, data analysis, Publishing outcomes
 - Microsoft azure 
 ## My projects:
-- [Excel] – Cleaning data(sorting, filtering), using pivot tabbles for analysis, descriptive analysis, comparative analysis, visualistions with line charts, histograms, bar charts and pie charts, securing my database.
+- [Excel] – Cleaning data(sorting, filtering), using pivot tabbles for descriptive and comparative analysis, visualistions with line charts, histograms, bar charts and pie charts, securing my database.
 ![Converting data](Excel_1.png)
 - 
 - [Tableau] - Using data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
