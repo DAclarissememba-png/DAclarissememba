@@ -11,7 +11,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 ![Converting data](Excel_1.png)
 ![Pivot tables](Pivot tables in Excel.png)
 ![Grouping](Grouping in Excel.png)
-![Data cleaning](Excel spreadsheet, sorting, filteringpng)
+![Data cleaning](Conditional formating in Excel.png)
 - 
 - [Tableau] - Using data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
 - [Power BI]- Upload data and transform data on power BI.Designing and publishing reports containing visuals to outline trends and information.
