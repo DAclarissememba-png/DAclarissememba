@@ -11,7 +11,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 ![Converting data](Excel_1.png)
 - 
 - [Tableau] - Used data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
-- ![Global health Trends](
+- ![Global health Trends](Global Health Dashboard.png)
 - [Power BI]- Upload data and transform data on power BI.Designing and publishing reports containing visuals to outline trends and information.
 - [SQL]- ERD(Entity relationship diagrams), Data structure. Using SQL to set up and create a database for a business(Small corner shop), Using Syntax to input or get information from a table, maintaining my database.
 - [Python]- Loading and exploring data(import libraries, files), indexing and slicingg, data manipulation, agregration and grouping, exporting data
