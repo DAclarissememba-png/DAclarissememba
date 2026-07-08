@@ -10,7 +10,7 @@ This portfolio showcases the different projects I completed during my Data Analy
 - [Excel] – Cleaning data(sorting, filtering), using pivot tabbles for descriptive and comparative analysis, visualistions with line charts, histograms, bar charts and pie charts, securing my database.
 ![Converting data](Excel_1.png)
 - 
-- [Tableau] - Using data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
+- [Tableau] - Used data sets to understand and spot trends by an organisation for future support(uploading,sorting, filtering, visualisation).
 - [Power BI]- Upload data and transform data on power BI.Designing and publishing reports containing visuals to outline trends and information.
 - [SQL]- ERD(Entity relationship diagrams), Data structure. Using SQL to set up and create a database for a business(Small corner shop), Using Syntax to input or get information from a table, maintaining my database.
 - [Python]- Loading and exploring data(import libraries, files), indexing and slicingg, data manipulation, agregration and grouping, exporting data
