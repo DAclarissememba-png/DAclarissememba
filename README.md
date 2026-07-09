@@ -52,16 +52,15 @@ Hands-on data analysis using Python libraries.
 
 | Project | Topics Covered |
 |---------|----------------|
-| [Python Coding](python/Python_coding.ipynb) | Libraries, coding, data analysis, and visualizations |
+| [Python Coding](python/Python_coding.ipynb) ![Importing libraries, coding, visualistions](Python_coding.ipynb)| Libraries, coding, data analysis, and visualizations |
 | [Syntax & Slicing](python/Syntax_display.ipynb) | Indexing, slicing, and data manipulation techniques |
-| [Task 1](python/Copy_of_task1.ipynb) | Data analysis bootcamp assignment |
 
 ### Tableau Projects
 Interactive dashboards and trend analysis.
 
 | Project | Description |
 |---------|-------------|
-| [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) ![Importing libraries, coding, visualistions](Python_coding.ipynb)| Analyzing global health trends for organizational insights |
+| [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) | Analyzing global health trends for organizational insights |
 
 ### SQL Projects
 
