@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 Skills & Knowledge
+## 📚 Skills & Knowledge acquired
 
 ### Excel & Data Basics
 - Data types, data management, and entry
