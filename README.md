@@ -44,7 +44,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 | [Pivot Tables](excel/Pivot%20tables%20in%20Excel.png) | Using pivot tables for descriptive and comparative analysis |
 | [Data Cleaning](excel/Excel%20spreadsheet,%20sorting,%20filtering%20and%20formula%20application.png) [DC](Excel_1.png)|Sorting, filtering, and formula application |
 | [Conditional Formatting](excel/Conditional%20formating%20in%20Excel.png) | Advanced formatting techniques for data highlighting |
-| [Grouping](excel/Grouping%20in%20Excel.png) [G](Grouping in Excel.png)| Data organization through grouping and outlining |
+| [Grouping](excel/Grouping%20in%20Excel.png) [Gr](Grouping in Excel.png)| Data organization through grouping and outlining |
 | [Complete Analysis](excel/Excel_1.png) | Full data analysis with visualizations and charts |
 
 ### Python & Jupyter Notebooks
