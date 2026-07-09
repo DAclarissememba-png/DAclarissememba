@@ -1,4 +1,4 @@
-# Clarisse's Data Analysis Bootcamp Portfolio
+# Clarisse's Data Analysis Portfolio
  This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
 
 ---
