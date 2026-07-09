@@ -68,16 +68,7 @@ Interactive dashboards and trend analysis.
 
 ---
 
-##  Getting Started
 
-### Viewing Python Notebooks
-1. Click on any `.ipynb` file in the `python/` folder
-2. GitHub will render the notebook directly in your browser
-3. To run locally: `jupyter notebook <filename>`
-
-### Viewing Excel & Tableau Work
-- Images are embedded in the folders above and linked in the tables
-- These showcase final results and techniques applied
 
 ---
 
