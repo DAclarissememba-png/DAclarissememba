@@ -1,10 +1,10 @@
 # Clarisse's Data Analysis Bootcamp Portfolio
 
-👋 Welcome! This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
+Welcome! This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
 
 ---
 
-## 📚 Skills & Knowledge acquired
+##  Skills & Knowledge acquired
 
 ### Excel & Data Basics
 - Data types, data management, and entry
@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Projects by Tool
+##  Projects by Tool
 
 ### Excel Projects
 Demonstrating data cleaning, analysis, and visualization techniques.
@@ -69,7 +69,7 @@ Interactive dashboards and trend analysis.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Viewing Python Notebooks
 1. Click on any `.ipynb` file in the `python/` folder
@@ -82,7 +82,7 @@ Interactive dashboards and trend analysis.
 
 ---
 
-## 📊 Key Takeaways
+##  Key Takeaways
 
 ✅ **Data Cleaning & Preparation** — Sorting, filtering, formula application, and validation  
 ✅ **Analysis & Aggregation** — Pivot tables, grouping, statistical calculations  
