@@ -64,11 +64,6 @@ Interactive dashboards and trend analysis.
 | [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) | Analyzing global health trends for organizational insights |
 
 ### SQL Projects
-*Screenshots and documentation of database projects coming soon*
-
----
-
-
 
 ---
 
@@ -80,12 +75,6 @@ Interactive dashboards and trend analysis.
 ✅ **Programming** — Python libraries for data manipulation and visualization  
 ✅ **Database Design** — SQL, ERDs, relational database modeling  
 ✅ **Tools Proficiency** — Excel, Python, SQL, Tableau, Power BI, Azure  
-
----
-
-## 📝 Notes
-
-All projects were completed as part of the Data Analysis Bootcamp curriculum. The work demonstrates practical application of data analysis concepts, from exploratory data analysis (EDA) to final reporting and visualization.
 
 ---
 
