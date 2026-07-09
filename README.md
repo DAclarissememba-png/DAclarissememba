@@ -61,7 +61,7 @@ Interactive dashboards and trend analysis.
 
 | Project | Description |
 |---------|-------------|
-| [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) | Analyzing global health trends for organizational insights |
+| [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) ![Importing libraries, coding, visualistions](Python_coding.ipynb)| Analyzing global health trends for organizational insights |
 
 ### SQL Projects
 
