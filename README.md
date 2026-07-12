@@ -11,7 +11,7 @@
 - Pivot tables, conditional formatting, grouping, sorting & filtering
 - Creating formulas and charts (line, histograms, bar, pie)
 - Data security best practices
-images/Global Health Dashboard.png 
+
 ### Python & Google Colab
 - Python syntax, calculations, and analysis
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
