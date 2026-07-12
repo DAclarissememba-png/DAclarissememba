@@ -31,25 +31,37 @@
 
 ### Microsoft Azure
 - Cloud-based data analysis tools and integration
-<p align="left">
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
-</p>
----
+
 
 ##  Projects by Tool
 
 ### Excel Projects
 Demonstrating data cleaning, analysis, and visualization techniques.
+<h2>Excel Projects</h2>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 | Project | Description |
-|---------|-------------|
-| [Pivot Tables](excel/Pivot%20tables%20in%20Excel.png) | Using pivot tables for descriptive and comparative analysis |
-| [Data Cleaning](excel/Excel%20spreadsheet,%20sorting,%20filtering%20and%20formula%20application.png) [DC](Excel_1.png)|Sorting, filtering, and formula application |
-| [Conditional Formatting](excel/Conditional%20formating%20in%20Excel.png) | Advanced formatting techniques for data highlighting |
-| [Grouping](excel/Grouping%20in%20Excel.png) [Gr](Grouping in Excel.png)| Data organization through grouping and outlining |
-| [Complete Analysis](excel/Excel_1.png) | Full data analysis with visualizations and charts |
+|----------|-------------|
+| Data Cleaning | Removing duplicates and handling missing values |
+| Pivot Tables | Business reporting and aggregation |
+| Sales Dashboard | KPI tracking and reporting |
+| Conditional Formatting | Automated highlighting |
+
+</td>
+
+<td width="40%" align="center">
+
+images/excel-dashboard.png
+
+</td>
+
+</tr>
+</table>
+
 
 ### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
