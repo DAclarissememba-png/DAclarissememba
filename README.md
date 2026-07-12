@@ -55,7 +55,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 
 <td width="40%" align="center">
 
-images/excel-dashboard.png
+images/Conditional formating in Excel.png
 
 </td>
 
