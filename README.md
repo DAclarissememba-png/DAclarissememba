@@ -65,11 +65,29 @@ images/excel-dashboard.png
 
 ### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
+<h2>Python Projects</h2>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 | Project | Topics Covered |
-|---------|----------------|
-| [Python Coding](python/Python_coding.ipynb) ![Importing libraries, coding, visualistions](Python_coding.ipynb)| Libraries, coding, data analysis, and visualizations |
-| [Syntax & Slicing](python/Syntax_display.ipynb) | Indexing, slicing, and data manipulation techniques |
+|----------|---------------|
+| Hotel Booking Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Customer Segmentation | Machine Learning |
+
+</td>
+
+<td width="40%" align="center">
+
+images/python-analysis.png
+
+</td>
+
+</tr>
+</table>
 
 ### Tableau Projects
 Interactive dashboards and trend analysis.
