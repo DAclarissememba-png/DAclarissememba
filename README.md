@@ -79,7 +79,29 @@ Interactive dashboards and trend analysis.
 | [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) | Analyzing global health trends for organizational insights |
 
 ### SQL Projects
+<h2>SQL Projects</h2>
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+| Project | Description |
+|----------|-------------|
+| Customer Analysis | Customer behavior insights |
+| Sales Analytics | Revenue trends |
+| Data Cleaning SQL | Data preparation with queries |
+
+</td>
+
+<td width="40%" align="center">
+
+images/sql-dashboard.png
+
+</td>
+
+</tr>
+</table>
 ---
 
 ##  Key Takeaways
