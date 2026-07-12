@@ -121,7 +121,29 @@ images/sql-dashboard.png
 </tr>
 </table>
 ---
+<h2>Power BI Projects</h2>
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+| Dashboard | Description |
+|------------|------------|
+| Sales Dashboard | Revenue KPIs |
+| HR Dashboard | Workforce Analytics |
+| Finance Dashboard | Financial Reporting |
+
+</td>
+
+<td width="40%" align="center">
+
+images/powerbi-dashboard.png
+
+</td>
+
+</tr>
+</table>
 ##  Key Takeaways
 
 ✅ **Data Cleaning & Preparation** — Sorting, filtering, formula application, and validation  
