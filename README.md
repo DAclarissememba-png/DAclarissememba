@@ -162,6 +162,7 @@ images/powerbi-dashboard.png
 <td width="40%" align="center">
 
 images/azure-project.png
+Global Health Dashboard.png
 
 </td>
 
