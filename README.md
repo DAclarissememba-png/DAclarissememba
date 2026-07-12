@@ -144,6 +144,29 @@ images/powerbi-dashboard.png
 
 </tr>
 </table>
+<h2>Microsoft Azure Projects</h2>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+| Project | Description |
+|----------|------------|
+| Azure Storage | Cloud storage management |
+| Azure Data Factory | ETL Pipelines |
+| Azure SQL Database | Database deployment |
+
+</td>
+
+<td width="40%" align="center">
+
+images/azure-project.png
+
+</td>
+
+</tr>
+</table>
 ##  Key Takeaways
 
 ✅ **Data Cleaning & Preparation** — Sorting, filtering, formula application, and validation  
