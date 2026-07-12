@@ -179,3 +179,12 @@ images/azure-project.png
 ---
 
 **Questions or feedback?** Feel free to reach out or open an issue!
+## Contact Information
+
+📧 Email:clarissebaari@email.com
+
+💼 LinkedIn:
+https://linkedin.com/in/yourprofile
+
+📂 GitHub:
+https://github.com/yourusername
