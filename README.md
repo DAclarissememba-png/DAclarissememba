@@ -31,7 +31,11 @@
 
 ### Microsoft Azure
 - Cloud-based data analysis tools and integration
-
+<p align="left">
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
+</p>
 ---
 
 ##  Projects by Tool
