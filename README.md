@@ -46,7 +46,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 
 | Project | Description |
 |----------|-------------|
-| Data Cleaning | Removing duplicates and handling missing values |
+| Data Cleaning | Removing duplicates and handling missing values ||
 | Pivot Tables | Business reporting and aggregation |
 | Sales Dashboard | KPI tracking and reporting |
 | Conditional Formatting | Automated highlighting |
@@ -55,6 +55,8 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 
 <td width="40%" align="center">
  
+|| 
+
 ![Excel sheet](Excel_1.png)
  
 ![Product revenue by country](Classification_by_country.png)
