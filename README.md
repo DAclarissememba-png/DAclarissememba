@@ -55,8 +55,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 
 <td width="40%" align="center">
 
-images/Conditional formating in Excel.png
-
+[Excel sheet](Excel_1.png)
 </td>
 
 </tr>
