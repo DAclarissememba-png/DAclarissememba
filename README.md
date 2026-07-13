@@ -81,7 +81,7 @@ images/python-analysis.png
 #### Project 1:Health Gapminder Dataset Analysis – Identifying Trends and Support Opportunities
 This project analyzes the Health Gapminder dataset to identify health and development trends across countries and regions. The aim was to provide evidence-based insights that organizations, NGOs, governments, and healthcare providers can use to prioritize future support, interventions, and resource allocation.
 
-![Global Health Dashboard]()
+![Global Health Dashboard](Global_Health_Dashboard.png)
 
 ### SQL Projects
 <h2>SQL Projects</h2>
