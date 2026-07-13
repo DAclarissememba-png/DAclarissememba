@@ -41,7 +41,11 @@ Organise raw sales
 Using retail sales dataset: converting this data into a sturctured table, apply sorting and filtering techniques, and perform basic business calculations for business reporting.
 ![Table created, filtering and sorting](Excel_1.png)
 ![
- 
+#### Project 2: Student Performance Analysis in Excel
+The objective was to identify top-performing students, calculate averages, determine the highest scores, and apply conditional formatting to highlight key performance indicators.
+![Project 2]()
+
+
 ![Product revenue by country](Classification_by_country.png)
 
 
