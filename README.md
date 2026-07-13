@@ -78,12 +78,10 @@ images/python-analysis.png
 </table>
 
 ### Tableau Projects
-Interactive dashboards and trend analysis.
+#### Project 1:Health Gapminder Dataset Analysis – Identifying Trends and Support Opportunities
+This project analyzes the Health Gapminder dataset to identify health and development trends across countries and regions. The aim was to provide evidence-based insights that organizations, NGOs, governments, and healthcare providers can use to prioritize future support, interventions, and resource allocation.
 
-| Project | Description |
-|---------|-------------|
-| [Global Health Dashboard](tableau/Global%20Health%20Dashboard.png) | Analyzing global health trends for organizational insights |
-
+![Global Health Dashboard]()
 ### SQL Projects
 <h2>SQL Projects</h2>
 
