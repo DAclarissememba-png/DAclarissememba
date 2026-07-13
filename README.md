@@ -57,9 +57,9 @@ Demonstrating data cleaning, analysis, and visualization techniques.
  
 ![Excel sheet](Excel_1.png)
  
-![excel](Screenshot 2026-07-08 124716.png)
+![excel](Screenshot2026-07-08124716.png)
 
-![Conditional formating](Screenshot 2026-07-08 124716.png)  
+![Conditional formating](Screenshot2026-07-08124716.png)  
 
 </td>
 
