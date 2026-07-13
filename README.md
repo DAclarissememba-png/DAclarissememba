@@ -48,34 +48,13 @@ The objective was to identify top-performing students, calculate averages, deter
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
 ![Product revenue by country](Classification_by_country.png)
 
-
-
-
 ### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
-<h2>Python Projects</h2>
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-| Project | Topics Covered |
-|----------|---------------|
-| Hotel Booking Analysis | Pandas, NumPy |
-| Data Visualization | Matplotlib, Seaborn |
-| Customer Segmentation | Machine Learning |
-
-</td>
-
-<td width="40%" align="center">
 
 images/python-analysis.png
 
-</td>
 
-</tr>
-</table>
 
 ### Tableau Projects
 #### Project 1:Health Gapminder Dataset Analysis – Identifying Trends and Support Opportunities
