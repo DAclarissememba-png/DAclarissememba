@@ -43,7 +43,7 @@ Using retail sales dataset: converting this data into a sturctured table, apply 
 ![
 #### Project 2: Student Performance Analysis in Excel
 The objective was to identify top-performing students, calculate averages, determine the highest scores, and apply conditional formatting to highlight key performance indicators.
-![Project 2]()
+![Project 2](Conditional_formating_in_Excel.png)
 
 
 ![Product revenue by country](Classification_by_country.png)
