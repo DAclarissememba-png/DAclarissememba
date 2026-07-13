@@ -37,7 +37,7 @@
 
 ### Excel Projects
 Demonstrating data cleaning, analysis, and visualization techniques.
-<h2>Excel Projects</h2>
+
 
 <table>
 <tr>
