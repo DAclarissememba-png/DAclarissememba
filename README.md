@@ -57,7 +57,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
  
 ![Excel sheet](Excel_1.png)
  
-
+![Product revenue by country](Classification_by_country.png)
 
 </td>
 
