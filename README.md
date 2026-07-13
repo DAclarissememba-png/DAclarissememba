@@ -55,7 +55,7 @@ Demonstrating data cleaning, analysis, and visualization techniques.
 
 <td width="40%" align="center">
 
-[Excel sheet](Excel_1.png)
+![Excel sheet](Excel_1.png)
 </td>
 
 </tr>
