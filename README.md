@@ -36,35 +36,15 @@
 ##  Projects by Tool
 
 ### Excel Projects
-Demonstrating data cleaning, analysis, and visualization techniques.
-
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-| Project | Description |
-|----------|-------------|
-| Data Cleaning | Removing duplicates and handling missing values ||
-| Pivot Tables | Business reporting and aggregation |
-| Sales Dashboard | KPI tracking and reporting |
-| Conditional Formatting | Automated highlighting |
-
-</td>
-
-<td width="40%" align="center">
- 
-|| 
-
-![Excel sheet](Excel_1.png)
+#### Project 1: Retail Sales Dataset Analysis and Excel Automation
+Organise raw sales 
+Using retail sales dataset: converting this data into a sturctured table, apply sorting and filtering techniques, and perform basic business calculations for business reporting.
+![Table created, filtering and sorting](Excel_1.png)
+![
  
 ![Product revenue by country](Classification_by_country.png)
 
-</td>
 
-</tr>
-</table>
 
 
 ### Python & Jupyter Notebooks
