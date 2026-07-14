@@ -1,21 +1,23 @@
-═══════════════════════════════════════════════════════════════
 
-                       📈 CLARISSE MEMBA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-                     DATA ANALYTICS PORTFOLIO
+                    📊 CLARISSE MEMBA
 
-═══════════════════════════════════════════════════════════════
+             DATA ANALYST • BUSINESS INTELLIGENCE
 
-     Data Analysis • Data Visualization • Reporting
+        Turning Complex Data Into Actionable Insights
 
-     SQL • Excel • Tableau • Python • Power BI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-═══════════════════════════════════════════════════════════════
+   🗄️ SQL      📈 Excel      📊 Tableau      🐍 Python
 
-     Turning Complex Data into Clear Business Insights
+   📉 Analytics      📋 Reporting      🚀 Dashboards
 
-═══════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+         ⭐ Portfolio Projects • Data Storytelling ⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Clarisse's Data Analysis Portfolio
  This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
 
