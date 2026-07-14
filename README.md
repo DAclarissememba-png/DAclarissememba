@@ -1,9 +1,6 @@
 
 # Clarisse's Data Analysis Portfolio
- This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
-👋 Hi, I'm Clarisse Memba
-
-💻 Technology professional passionate about software development, automation, cloud solutions, and AI. 🚀 I build scalable solutions that improve efficiency, solve business challenges, and drive digital transformation.
+ This portfolio showcases projects completed during my **Data Analysis Bootcamp**  Below you'll find examples of my work across multiple tools and technologies.
 ---
 
 ##  Skills & Knowledge acquired
@@ -51,7 +48,7 @@ The objective was to identify top-performing students, calculate averages, deter
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
 ![Product revenue by country](Classification_by_country.png)
 
-### Python & Jupyter Notebooks
+#### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
 ................
 
