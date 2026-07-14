@@ -63,78 +63,11 @@ This project analyzes the Health Gapminder dataset to identify health and develo
 ![Global Health Dashboard](Global_Health_Dashboard.png)
 
 ### SQL Projects
-<h2>SQL Projects</h2>
+#### Project 1: Spotify Data Analysis Database Design (ERD)
+The ERD shows the relationship between tracks, artists, albums, genres, and audio features. In the ERD below, One artist can have many tracks.Each track belongs to one artist, one album can contain many tracks, Each track belongs to one album and One genre can contain many tracks.
 
-<table>
-<tr>
 
-<td width="60%" valign="top">
 
-| Project | Description |
-|----------|-------------|
-| Customer Analysis | Customer behavior insights |
-| Sales Analytics | Revenue trends |
-| Data Cleaning SQL | Data preparation with queries |
-
-</td>
-
-<td width="40%" align="center">
-
-images/sql-dashboard.png
-
-</td>
-
-</tr>
-</table>
----
-<h2>Power BI Projects</h2>
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-| Dashboard | Description |
-|------------|------------|
-| Sales Dashboard | Revenue KPIs |
-| HR Dashboard | Workforce Analytics |
-| Finance Dashboard | Financial Reporting |
-
-</td>
-
-<td width="40%" align="center">
-
-images/powerbi-dashboard.png
-
-</td>
-
-</tr>
-</table>
-<h2>Microsoft Azure Projects</h2>
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-| Project | Description |
-|----------|------------|
-| Azure Storage | Cloud storage management |
-| Azure Data Factory | ETL Pipelines |
-| Azure SQL Database | Database deployment |
-
-</td>
-
-<td width="40%" align="center">
-
-images/azure-project.png
-Global Health Dashboard.png
-
-</td>
-
-</tr>
-</table>
-##  Key Takeaways
 
 ✅ **Data Cleaning & Preparation** — Sorting, filtering, formula application, and validation  
 ✅ **Analysis & Aggregation** — Pivot tables, grouping, statistical calculations  
@@ -148,7 +81,7 @@ Global Health Dashboard.png
 **Questions or feedback?** Feel free to reach out or open an issue!
 ## Contact Information
 
-📧 Email:clarissebaari@email.com
+📧 Email:clarissebaari@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/yourprofile
