@@ -73,16 +73,13 @@ This project demonstrated the use of SQL queries in MySQL Workbench to analyze t
 ![Group](Groupsql.png)
 ![Join](Joinsql.png)
 
-
----
+#### Project 3: Retail Shop Database Design and Development
+This project outlines the design and implementation of a database system for a small corner shop that sells groceries and household products. The shop currently manages information manually and requires a database to streamline inventory management, sales tracking, customer information, and its loyalty rewards program.
 
 **Questions or feedback?** Feel free to reach out or open an issue!
 ## Contact Information
 
 📧 Email:clarissebaari@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
 
 📂 GitHub:
 https://github.com/yourusername
