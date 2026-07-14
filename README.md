@@ -68,7 +68,10 @@ The ERD shows the relationship between tracks, artists, albums, genres, and audi
 ![ERD](ERD.png)
 #### Project 2: World Database SQL Analysis Project
 This project demonstrated the use of SQL queries in MySQL Workbench to analyze the World Database (world_db). The objective was to retrieve, filter, sort, and analyze global data relating to countries, cities, populations, languages, and regions.
-
+![Select](Selectsql.png) 
+![Filter](Filtersql) 
+![Group](Groupsql)
+![Join](Joinsql)
 
 
 ---
