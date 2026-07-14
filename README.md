@@ -66,17 +66,10 @@ This project analyzes the Health Gapminder dataset to identify health and develo
 #### Project 1: Spotify Data Analysis Database Design (ERD)
 The ERD shows the relationship between tracks, artists, albums, genres, and audio features. In the ERD below, One artist can have many tracks.Each track belongs to one artist, one album can contain many tracks, Each track belongs to one album and One genre can contain many tracks.
 ![ERD](ERD.png)
+#### Project 2: World Database SQL Analysis Project
+This project demonstrated the use of SQL queries in MySQL Workbench to analyze the World Database (world_db). The objective was to retrieve, filter, sort, and analyze global data relating to countries, cities, populations, languages, and regions.
 
 
-
-
-
-✅ **Data Cleaning & Preparation** — Sorting, filtering, formula application, and validation  
-✅ **Analysis & Aggregation** — Pivot tables, grouping, statistical calculations  
-✅ **Visualization** — Charts, dashboards, trend identification  
-✅ **Programming** — Python libraries for data manipulation and visualization  
-✅ **Database Design** — SQL, ERDs, relational database modeling  
-✅ **Tools Proficiency** — Excel, Python, SQL, Tableau, Power BI, Azure  
 
 ---
 
