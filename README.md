@@ -1,15 +1,20 @@
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                    📊 CLARISSE MEMBA                       │
-│                                                             │
-│             Data Analyst | Business Intelligence            │
-│                                                             │
-│     Transforming Data into Insights that Drive Decisions    │
-│                                                             │
-│      SQL • Excel • Tableau • Python • MySQL               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+═══════════════════════════════════════════════════════════════
 
+                       📈 CLARISSE MEMBA
+
+                     DATA ANALYTICS PORTFOLIO
+
+═══════════════════════════════════════════════════════════════
+
+     Data Analysis • Data Visualization • Reporting
+
+     SQL • Excel • Tableau • Python • Power BI
+
+═══════════════════════════════════════════════════════════════
+
+     Turning Complex Data into Clear Business Insights
+
+═══════════════════════════════════════════════════════════════
 
 # Clarisse's Data Analysis Portfolio
  This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
