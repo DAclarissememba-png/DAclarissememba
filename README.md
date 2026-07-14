@@ -1,7 +1,8 @@
 
 # Clarisse's Data Analysis Portfolio
+
  This portfolio showcases projects completed during my **Data Analysis Bootcamp**  Below you'll find examples of my work across multiple tools and technologies.
----
+------------------------------------------------------------------------------------------------
 
 ##  Skills & Knowledge acquired
 
