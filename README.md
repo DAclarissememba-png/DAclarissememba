@@ -65,6 +65,8 @@ This project analyzes the Health Gapminder dataset to identify health and develo
 ### SQL Projects
 #### Project 1: Spotify Data Analysis Database Design (ERD)
 The ERD shows the relationship between tracks, artists, albums, genres, and audio features. In the ERD below, One artist can have many tracks.Each track belongs to one artist, one album can contain many tracks, Each track belongs to one album and One genre can contain many tracks.
+![ERD](ERD.png)
+
 
 
 
