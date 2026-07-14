@@ -1,9 +1,9 @@
 
-# Clarisse's Data Analysis Portfolio
+# 👋 Hi, I'm Clarisse Memba
 
- This portfolio showcases projects completed during my **Data Analysis Bootcamp**  Below you'll find examples of my work across multiple tools and technologies.
-------------------------------------------------------------------------------------------------
-
+This portfolio showcases projects completed during my Data Analysis Bootcamp. Below you’ll find examples of my work across multiple tools and technologies.
+Im passionate about building impactful solutions with software, automation, cloud technologies, and AI. Always learning, solving problems, and creating value through technology.
+ 
 ##  Skills & Knowledge acquired
 
 ### Excel & Data Basics
