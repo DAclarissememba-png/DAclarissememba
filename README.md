@@ -1,23 +1,4 @@
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-                    📊 CLARISSE MEMBA
-
-             DATA ANALYST • BUSINESS INTELLIGENCE
-
-        Turning Complex Data Into Actionable Insights
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-   🗄️ SQL      📈 Excel      📊 Tableau      🐍 Python
-
-   📉 Analytics      📋 Reporting      🚀 Dashboards
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-         ⭐ Portfolio Projects • Data Storytelling ⭐
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Clarisse's Data Analysis Portfolio
  This portfolio showcases projects completed during my **Data Analysis Bootcamp** (May–July 2026). Below you'll find examples of my work across multiple tools and technologies.
 
@@ -70,9 +51,53 @@ The aim was to transform raw sales data into meaningful insights by summarizing 
 
 ### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
+................
 
 
-images/python-analysis.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
