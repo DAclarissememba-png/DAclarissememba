@@ -40,14 +40,14 @@ This portfolio showcases projects completed during my Data Analysis Bootcamp. Be
 #### Project 1: Retail Sales Dataset Analysis and Excel Automation
 Organise raw sales 
 Using retail sales dataset: converting this data into a sturctured table, apply sorting and filtering techniques, and perform basic business calculations for business reporting.
-[Table created, filtering and sorting](Excel_1.png)
+[Project 1](Excel_1.png)
 
 #### Project 2: Student Performance Analysis in Excel
 The objective was to identify top-performing students, calculate averages, determine the highest scores, and apply conditional formatting to highlight key performance indicators.
-![Project 2](Conditional_formating_in_Excel.png)
+[Project 2](Conditional_formating_in_Excel.png)
 #### Project 3:Bike Sales Pivot Table Analysis
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
-[Product revenue by country](Classification_by_country.png)
+[Project 3](Classification_by_country.png)
 
 #### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
