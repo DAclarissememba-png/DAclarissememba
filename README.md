@@ -42,8 +42,9 @@ The objective was to identify top-performing students, calculate averages, deter
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
 ![Project 3](Classification_by_country.png)
 
-#### Python & Jupyter Notebooks
+### Python & Google colab
 Hands-on data analysis using Python libraries.
+####
 ................
 
 
@@ -106,10 +107,7 @@ The ERD shows the relationship between tracks, artists, albums, genres, and audi
 ![ERD](ERD.png)
 #### Project 2: World Database SQL Analysis Project
 This project demonstrated the use of SQL queries in MySQL Workbench to analyze the World Database (world_db). The objective was to retrieve, filter, sort, and analyze global data relating to countries, cities, populations, languages, and regions.
-![Select](Selectsql.png) 
-![Filter](Filtersql.png) 
-![Group](Groupsql.png)
-![Join](Joinsql.png)
+![Select](Selectsql.png) ![Filter](Filtersql.png) ![Group](Groupsql.png) ![Join](Joinsql.png)
 
 #### Project 3: Retail Shop Database Design and Development
 This project outlines the design and implementation of a database system for a small corner shop that sells groceries and household products. The shop currently manages information manually and requires a database to streamline inventory management, sales tracking, customer information, and its loyalty rewards program.
