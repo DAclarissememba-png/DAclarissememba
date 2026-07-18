@@ -7,7 +7,7 @@ This portfolio showcases projects completed during my Data Analysis Bootcamp. Be
 ##  Skills & Knowledge acquired
 
 ### Excel & Data Basics
-- Data types, data management, and entry 
+- **[Data types](data management and entry)**  
 - Analysis and visualization
 - Pivot tables, conditional formatting, grouping, sorting & filtering
 - Creating formulas and charts (line, histograms, bar, pie)
