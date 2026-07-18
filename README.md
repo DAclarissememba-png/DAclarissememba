@@ -123,7 +123,99 @@ This project outlines the design and implementation of a database system for a s
 **Questions or feedback?** Feel free to reach out or open an issue!
 ## Contact Information
 
-📧 Email:clarissebaari@gmail.com
+# 👋 Hi, I'm Clarisse Memba
 
-📂 GitHub:
-https://github.com/yourusername
+Data Analysis professional passionate about transforming raw data into actionable insights. I completed an intensive Data Analysis Bootcamp where I mastered tools like Excel, Python, SQL, Tableau, and Power BI. This portfolio showcases real-world projects across multiple analytics domains.
+
+**[LinkedIn](#) | [GitHub](https://github.com/DAclarissememba-png) | [Email](mailto:clarissebaari@gmail.com)**
+
+---
+
+## 🎯 Skills & Knowledge
+
+### Excel & Data Basics
+- Advanced data management, pivot tables, and conditional formatting
+- Formula building and multi-chart dashboards
+- Data security best practices
+
+### Python & Google Colab
+- Pandas, NumPy, Matplotlib, Seaborn for data analysis and visualization
+- Data wrangling, aggregation, and exploratory analysis
+
+### SQL & MySQL Workbench
+- Relational database design and ERD creation
+- Complex queries: joins, aggregations, filtering
+- Building production-ready databases
+
+### Tableau & Power BI
+- Interactive dashboard design and publishing
+- Data storytelling and trend identification
+- Real-time report creation
+
+### Cloud & Tools
+- Microsoft Azure for cloud-based analytics
+
+---
+
+## 📊 Featured Projects
+
+### Excel Projects
+
+**Retail Sales Dataset Analysis & Automation**
+- Converted raw sales data into structured tables
+- Applied filtering, sorting, and pivot analysis
+- Calculated key business metrics for stakeholder reporting
+![Retail analysis example](Excel_1.png)
+
+**Student Performance Analytics**
+- Identified top performers using conditional formatting and formulas
+- Calculated class averages and performance KPIs
+- Highlighted critical metrics for educators
+![Conditional formatting dashboard](Conditional_formating_in_Excel.png)
+
+**Bike Sales Pivot Table Analysis**
+- Summarized sales trends across customer segments and regions
+- Identified revenue drivers by product category and geography
+- Delivered actionable recommendations
+![Revenue by country](Classification_by_country.png)
+
+### Python Projects
+
+[Add completed projects with descriptions]
+
+### Tableau Projects
+
+**Health Gapminder Dataset Analysis**
+- Analyzed global health and development trends across 150+ countries
+- Created interactive dashboards for NGOs and policy organizations
+- Identified support opportunities based on regional health metrics
+![Global Health Dashboard](Global_Health_Dashboard.png)
+
+### SQL Projects
+
+**Spotify Data Analysis (Database Design)**
+- Designed relational schema for music streaming data
+- Created ERD modeling artist-track-album-genre relationships
+- Query examples for analytics use cases
+![Database ERD](ERD.png)
+
+**World Database Analysis**
+- Executed complex queries (SELECT, JOIN, GROUP BY, HAVING)
+- Filtered and sorted global country data
+- Demonstrated SQL proficiency with real-world datasets
+![SQL queries examples](Selectsql.png)
+
+**Retail Shop Database**
+- Designed and implemented inventory management system
+- Normalized database schema for scalability
+- Enabled automated reporting for store operations
+
+---
+
+## 🔗 Let's Connect
+
+**📧 Email:** [clarissebaari@gmail.com](mailto:clarissebaari@gmail.com)
+**💼 LinkedIn:** [linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)
+**🐙 GitHub:** [github.com/DAclarissememba-png](https://github.com/DAclarissememba-png)
+
+Have questions or feedback? Feel free to reach out!
