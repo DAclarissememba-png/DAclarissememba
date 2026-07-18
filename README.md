@@ -47,7 +47,7 @@ The objective was to identify top-performing students, calculate averages, deter
 ![Project 2](Conditional_formating_in_Excel.png)
 #### Project 3:Bike Sales Pivot Table Analysis
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
-![Product revenue by country](Classification_by_country.png)
+[Product revenue by country](Classification_by_country.png)
 
 #### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
