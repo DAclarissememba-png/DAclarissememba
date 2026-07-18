@@ -2,34 +2,28 @@
 # 👋 Hi, I'm Clarisse Memba
 
 This portfolio showcases projects completed during my Data Analysis Bootcamp. Below you’ll find examples of my work across multiple tools and technologies.Im passionate about building impactful solutions with software, automation, cloud technologies, and AI. Always learning, solving problems, and creating value through technology.
-**[LinkedIn](#) | [GitHub](https://github.com/DAclarissememba-png) | [Email](mailto:clarissebaari@gmail.com)**
  
 ##  Skills & Knowledge acquired
-
 ### Excel & Data Basics
-- **[Data types](data management and entry)**  
+- Data types, data management and entry  
 - Analysis and visualization
 - Pivot tables, conditional formatting, grouping, sorting & filtering
 - Creating formulas and charts (line, histograms, bar, pie)
 - Data security best practices
-
 ### Python & Google Colab
 - Python syntax, calculations, and analysis
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - Data indexing, slicing, manipulation, aggregation, and grouping
 - Data visualization and export
-
 ### SQL & MySQL Workbench
 - Database structuring and relational database design (Snowflake schema)
 - Entity Relationship Diagrams (ERDs)
 - Creating and manipulating database records
 - Building business databases from scratch
-
 ### Tableau & Power BI
 - Data import, analysis, and trend identification
 - Designing and publishing interactive dashboards
 - Report creation with visual insights
-
 ### Microsoft Azure
 - Cloud-based data analysis tools and integration
 
@@ -38,16 +32,15 @@ This portfolio showcases projects completed during my Data Analysis Bootcamp. Be
 
 ### Excel Projects
 #### Project 1: Retail Sales Dataset Analysis and Excel Automation
-Organise raw sales 
-Using retail sales dataset: converting this data into a sturctured table, apply sorting and filtering techniques, and perform basic business calculations for business reporting.
-[Project 1](Excel_1.png)
+Organise raw sales using retail sales dataset: converting this data into a sturctured table, apply sorting and filtering techniques, and perform basic business calculations for business reporting.
+![Project 1](Excel_1.png)
 
 #### Project 2: Student Performance Analysis in Excel
 The objective was to identify top-performing students, calculate averages, determine the highest scores, and apply conditional formatting to highlight key performance indicators.
-[Project 2](Conditional_formating_in_Excel.png)
+![Project 2](Conditional_formating_in_Excel.png)
 #### Project 3:Bike Sales Pivot Table Analysis
 The aim was to transform raw sales data into meaningful insights by summarizing and analyzing customer purchasing patterns.The goal was to summarize order quantities and identify trends within customer demographics.
-[Project 3](Classification_by_country.png)
+![Project 3](Classification_by_country.png)
 
 #### Python & Jupyter Notebooks
 Hands-on data analysis using Python libraries.
