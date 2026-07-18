@@ -116,7 +116,7 @@ This project outlines the design and implementation of a database system for a s
 ## 🔗 Let's Connect
 
 **📧 Email:** [clarissebaari@gmail.com](mailto:clarissebaari@gmail.com)
-**💼 LinkedIn:** [linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)
+**💼 LinkedIn:**[linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)** 
 **🐙 GitHub:** [github.com/DAclarissememba-png](https://github.com/DAclarissememba-png)
 
 Have questions or feedback? Feel free to reach out!
