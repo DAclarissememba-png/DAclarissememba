@@ -44,7 +44,7 @@ The aim was to transform raw sales data into meaningful insights by summarizing 
 
 ### Python & Google colab
 Hands-on data analysis using Python libraries.
-[Python coding notebook 2](Python_coding.ipynb)
+[Python coding notebook 2](Python_coding2.ipynb)
 
 
 
