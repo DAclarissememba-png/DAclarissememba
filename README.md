@@ -100,6 +100,9 @@ Hands-on data analysis using Python libraries.
 This project analyzes the Health Gapminder dataset to identify health and development trends across countries and regions. The aim was to provide evidence-based insights that organizations, NGOs, governments, and healthcare providers can use to prioritize future support, interventions, and resource allocation.
 
 ![Global Health Dashboard](Global_Health_Dashboard.png)
+### Power BI
+#### Project 1
+#### Project 2
 
 ### SQL Projects
 #### Project 1: Spotify Data Analysis Database Design (ERD)
@@ -112,6 +115,10 @@ This project demonstrated the use of SQL queries in MySQL Workbench to analyze t
 #### Project 3: Retail Shop Database Design and Development
 This project outlines the design and implementation of a database system for a small corner shop that sells groceries and household products. The shop currently manages information manually and requires a database to streamline inventory management, sales tracking, customer information, and its loyalty rewards program.
 
+### Microsoft Azure
+#### Project: Exploring relational and non relational databases in Microsoft azure
+This project explores the implementation, management, and comparison of relational and non-relational (NoSQL) database solutions available in Microsoft Azure. The goal is to understand their architecture, capabilities, performance characteristics, scalability, and appropriate use cases in modern cloud applications. This project demonstrates how Azure database services can be leveraged to build secure, scalable, and efficient data-driven applications.
+![Nonrelationaldb]()
 
 ## 🔗 Let's Connect
 
