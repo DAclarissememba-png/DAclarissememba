@@ -118,12 +118,13 @@ This project outlines the design and implementation of a database system for a s
 ### Microsoft Azure
 #### Project: Exploring relational and non relational databases in Microsoft azure
 This project explores the implementation, management, and comparison of relational and non-relational (NoSQL) database solutions available in Microsoft Azure. The goal is to understand their architecture, capabilities, performance characteristics, scalability, and appropriate use cases in modern cloud applications. This project demonstrates how Azure database services can be leveraged to build secure, scalable, and efficient data-driven applications.
+![Relationaldb](Relational_dbazure)
 ![Nonrelationaldb](Azure_storage_NRD.png)
 
 ## 🔗 Let's Connect
 
 **📧 Email:** [clarissebaari@gmail.com](mailto:clarissebaari@gmail.com)
-**💼 LinkedIn:**[linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)** 
+**💼 LinkedIn:**[linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)
 **🐙 GitHub:** [github.com/DAclarissememba-png](https://github.com/DAclarissememba-png)
 
 Have questions or feedback? Feel free to reach out!
