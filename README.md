@@ -46,53 +46,6 @@ The aim was to transform raw sales data into meaningful insights by summarizing 
 Hands-on data analysis using Python libraries.
 [Python coding notebook 2](Python_coding2.ipynb)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Tableau Projects
 #### Project 1:Health Gapminder Dataset Analysis – Identifying Trends and Support Opportunities
 This project analyzes the Health Gapminder dataset to identify health and development trends across countries and regions. The aim was to provide evidence-based insights that organizations, NGOs, governments, and healthcare providers can use to prioritize future support, interventions, and resource allocation.
@@ -105,9 +58,6 @@ This project demonstrates how to use Microsoft Power BI and Power Query Editor t
 #### Project 2: Design Power BI Reports for Sales Analysis
 Using the Adventure Works sales dataset, the project focuses on transforming business data into meaningful visualizations and dashboards that help stakeholders monitor sales performance, profitability, product demand, and regional trends. The report combines multiple visualizations, filters, and analytical features to provide a comprehensive view of organizational sales performance.
 ![project2](Designing_powerBI_results.png) 
-
-
-
 
 ### SQL Projects
 #### Project 1: Spotify Data Analysis Database Design (ERD)
@@ -129,7 +79,7 @@ This project explores the implementation, management, and comparison of relation
 ## 🔗 Let's Connect
 
 **📧 Email:** [clarissebaari@gmail.com](mailto:clarissebaari@gmail.com)
-**💼 LinkedIn:** [linkedin.com/in/yourusername](linkedin.com/in/clarissebaarimemba794b3b253)
+**💼 LinkedIn:** [linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)
 **🐙 GitHub:** [github.com/DAclarissememba-png](https://github.com/DAclarissememba-png)
 
 Have questions or feedback? Feel free to reach out!
