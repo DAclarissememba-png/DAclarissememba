@@ -106,7 +106,7 @@ This project demonstrates how to use Microsoft Power BI and Power Query Editor t
 ![datatransformation](Getting_data_powerBI.png)
 #### Project 2: Design Power BI Reports for Sales Analysis
 Using the Adventure Works sales dataset, the project focuses on transforming business data into meaningful visualizations and dashboards that help stakeholders monitor sales performance, profitability, product demand, and regional trends. The report combines multiple visualizations, filters, and analytical features to provide a comprehensive view of organizational sales performance.
-![project2]() 
+![project2](Designing_powerBI_results.png) 
 
 
 
