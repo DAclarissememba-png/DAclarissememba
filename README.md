@@ -103,7 +103,7 @@ This project analyzes the Health Gapminder dataset to identify health and develo
 ### Power BI
 #### Project 1:Sales Analysis and Data Transformation with Power BI
 This project demonstrates how to use Microsoft Power BI and Power Query Editor to extract, transform, clean, and analyze sales data from the AdventureWorks database. The project focuses on preparing raw sales data for business intelligence reporting and generating actionable insights through data modeling and visualization.
-![datatransformation]()
+![datatransformation](Getting_data_powerBI.png)
 #### Project 2
 
 ### SQL Projects
