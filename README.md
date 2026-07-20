@@ -79,7 +79,7 @@ This project explores the implementation, management, and comparison of relation
 ## 🔗 Let's Connect
 
 **📧 Email:** [clarissebaari@gmail.com](mailto:clarissebaari@gmail.com)
-**💼 LinkedIn:** [linkedin.com/in/yourusername](linkedin.com/in/clarisse-baari-memba-794b3b253)
+**💼 LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/clarisse-baari-memba-794b3b253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx7A%2F9fqPTL%2BF%2F9KL8%2Fe4Ow%3D%3D)
 **🐙 GitHub:** [github.com/DAclarissememba-png](https://github.com/DAclarissememba-png)
 
 Have questions or feedback? Feel free to reach out!
