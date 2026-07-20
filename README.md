@@ -51,6 +51,7 @@ Hands-on data analysis using Python libraries.
 This project analyzes the Health Gapminder dataset to identify health and development trends across countries and regions. The aim was to provide evidence-based insights that organizations, NGOs, governments, and healthcare providers can use to prioritize future support, interventions, and resource allocation.
 
 ![Global Health Dashboard](Global_Health_Dashboard.png)
+[link](https://public.tableau.com/app/profile/clarisse.memba/viz/GlobalHealthDashboard_17803513394810/GlobalHealthInsights?publish=yes)
 ### Power BI
 #### Project 1:Sales Analysis and Data Transformation with Power BI
 This project demonstrates how to use Microsoft Power BI and Power Query Editor to extract, transform, clean, and analyze sales data from the AdventureWorks database. The project focuses on preparing raw sales data for business intelligence reporting and generating actionable insights through data modeling and visualization.
