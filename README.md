@@ -61,7 +61,7 @@ Using the Adventure Works sales dataset, the project focuses on transforming bus
 
 ### SQL Projects
 #### Project 1: Spotify Data Analysis Database Design (ERD)
-The ERD shows the relationship between tracks, artists, albums, genres, and audio features. In the ERD below, One artist can have many tracks.Each track belongs to one artist, one album can contain many tracks, Each track belongs to one album and One genre can contain many tracks.
+This ERD models geographical and demographic data using three tables. A one-to-many relationship exists between Country and City because one country can contain many cities. Another one-to-many relationship exists between Country and CountryLanguage because a country can have multiple spoken languages. Foreign keys in the City and CountryLanguage tables link back to the Country table, ensuring data integrity and allowing analysis of countries, their cities, populations, and languages through SQL queries and joins.
 ![ERD](ERD.png)
 #### Project 2: World Database SQL Analysis Project
 This project demonstrated the use of SQL queries in MySQL Workbench to analyze the World Database (world_db). The objective was to retrieve, filter, sort, and analyze global data relating to countries, cities, populations, languages, and regions.
