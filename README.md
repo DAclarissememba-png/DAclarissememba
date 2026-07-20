@@ -69,6 +69,7 @@ This project demonstrated the use of SQL queries in MySQL Workbench to analyze t
 
 #### Project 3: Retail Shop Database Design and Development
 This project outlines the design and implementation of a database system for a small corner shop that sells groceries and household products. The shop currently manages information manually and requires a database to streamline inventory management, sales tracking, customer information, and its loyalty rewards program.
+![Databasetable](database_creation.png)
 
 ### Microsoft Azure
 #### Project: Exploring relational and non relational databases in Microsoft azure
